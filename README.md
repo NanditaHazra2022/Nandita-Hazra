@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nandita-Hazra
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning cloud backend development from Indian Institute of Information Technology, Bangalore
-- 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me: My email is hazranandita2022@gmail.com
+-  Hello, I am Nandita Hazra.
+-  I am interested in software development.
+-  I am currently learning Cloud Backend Development from Indian Institute of Information Technology, Bangalore.
+-  I am looking to collaborate on software development.
+-  I am reachable at my email: hazranandita2022@gmail.com
